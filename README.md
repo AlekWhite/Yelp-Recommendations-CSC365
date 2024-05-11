@@ -1,1 +1,1 @@
-# CSC365
+# Main Project for CSC365
